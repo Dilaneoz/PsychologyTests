@@ -1,0 +1,108 @@
+/* 
+  Localizable.strings
+  RorschachTestApplication
+
+  Created by Dilan Öztürk on 22.01.2023.
+  
+*/
+
+/*
+"IMAGE" = "psychology tests";
+//"TESTBUTONU" = "TESTE BAŞLA";
+"SORULABEL" = "Yukarıdaki görselde ne görüyorsunuz?";
+"SORU1BUTTON1" = "Yarasa, kelebek veya güve";
+"SORU1BUTTON2" = "Ortada üçüncü kişiye saldıran iki kişi";
+"SORU1BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU1BUTTON4" = "Yiyecek";
+"SORU1BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU1BUTTON6" = "Hayvan yüzü";
+"SORU1BUTTON7" = "Savaş gemisi";
+"SORU1BUTTON8" = "İki kişinin ya da hayvanın ortadaki kadına saldırması";
+"SORU2BUTTON1" = "Karşı karşıya duran iki insan, kadınlar veya goblinler";
+"SORU2BUTTON2" = "Yüzüne ve ağzının çevresine kan bulaşmış bir kedi yada ayı yüzü";
+"SORU2BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU2BUTTON4" = "Yiyecek";
+"SORU2BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU2BUTTON6" = "Herhangi bir hayvan ya da insan görmüyorum";
+"SORU2BUTTON7" = "Dövüşen iki ayı - her yerde kan";
+"SORU2BUTTON8" = "Sürüklenen iki kara bulut";
+"SORU3BUTTON1" = "Çiçekler, orkideler ve bir kelebekle çevrili, birbirine bakan iki insan figürü";
+"SORU3BUTTON2" = "İki kadın";
+"SORU3BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU3BUTTON4" = "Yiyecek";
+"SORU3BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU3BUTTON6" = "İçeriğinde insan olmayan bir görüntü";
+"SORU4BUTTON1" = "Büyük mantolu bir adam veya bir hayvan derisi";
+"SORU4BUTTON2" = "Saldıran bir ejderha, ayı, canavar ya da goril";
+"SORU4BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU4BUTTON4" = "Yiyecek";
+"SORU4BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU4BUTTON6" = "Kocaman bir penisi olan bir dev";
+"SORU5BUTTON1" = "Yarasa, kuş ya da kelebek";
+"SORU5BUTTON2" = "Herhangi bir şey görmekte zorlandım";
+"SORU5BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU5BUTTON4" = "Yiyecek";
+"SORU5BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU5BUTTON6" = "Kanat uçlarında timsah kafası";
+"SORU5BUTTON7" = "Bunlardan hiçbiri, çok daha farklı bir görüntü";
+"SORU5BUTTON8" = "Kafalarını birbirine vuran iki hayvan";
+"SORU6BUTTON1" = "Kadın ya da erkek cinsel organı";
+"SORU6BUTTON2" = "Tırmanması zor bir dağ";
+"SORU6BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU6BUTTON4" = "Yiyecek";
+"SORU6BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU6BUTTON6" = "Hiçbiri";
+"SORU6BUTTON7" = "Ezilmiş bir kedi";
+"SORU6BUTTON8" = "Suda yansıması olan gemi ya da bot";
+"SORU7BUTTON1" = "İki kadın";
+"SORU7BUTTON2" = "Gök gürültülü bulutlar";
+"SORU7BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU7BUTTON4" = "Yiyecek";
+"SORU7BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU7BUTTON6" = "İki cadı, dedikoducu sürtükler, kavga eden iki kadın ya da entrikacı kadınlar";
+"SORU7BUTTON7" = "Ortadaki beyaz alanı gaz lambası olarak görme";
+"SORU7BUTTON8" = "Aynada kendini gören küçük  bir kız";
+"SORU8BUTTON1" = "İki tane dört ayaklı hayvan";
+"SORU8BUTTON2" = "Aşağıdaki alevlerden kaçan iki hayvan";
+"SORU8BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU8BUTTON4" = "Yiyecek";
+"SORU8BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU8BUTTON6" = "Kaya parçası üzerinde bir panter ve nehre yansıyan bir manzara";
+"SORU9BUTTON1" = "Alev, fırlatılan bir roket ve dumanlar";
+"SORU9BUTTON2" = "Sarı ile çevrelenmiş parlak yeşil mantar bulutu";
+"SORU9BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU9BUTTON4" = "Yiyecek";
+"SORU9BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SORU9BUTTON6" = "Hiçbiri";
+"SORU10BUTTON1" = "Mavi yengeçler veya örümcekler, gri yengeçler ve karidesler, turuncu meyveler, yeşil tırtıllar ve kahverengi fareler";
+"SORU10BUTTON2" = "Parçalanan, çöken, düşen veya patlayan bir şey veya bir yanardağ patlaması";
+"SORU10BUTTON3" = "Herhangi bir cinsel içerik";
+"SORU10BUTTON4" = "Yiyecek";
+"SORU10BUTTON5" = "Pürüzlü/pürüzsüz/tüylü bir yüzey";
+"SONUCBASLİK1" = "Sağlıklı ve dengelisiniz!";
+"SONUCBASLİK2" = "Kaygılı ve öfkelisiniz!";
+"SONUCBASLİK3" = "Şizofreni belirtisi gösteriyorsunuz!";
+"SONUCBASLİK4" = "Bağımlılık davranışı gösteriyorsunuz!";
+"SONUCBASLİK5" = "İlgi ihtiyacınız var!";
+"SONUCBASLİK6" = "İlişkilerinizde sorunlar yaşıyorsunuz!";
+"SONUCBASLİK7" = "Saldırgan davranış belirtisi gösteriyorsunuz!";
+"SONUCBASLİK8" = "Ben-merkezci davranış özelliğine sahipsiniz!";
+"SONUCTANIM1" = "Normal, sağlıklı düşünme süreçleri ve topluma iyi bir uyum gösteriyorsunuz. Yüksek özsaygı ve odaklanmaya sahipsiniz.";
+"SONUCTANIM2" = "Anksiyete belirtisi gösteriyorsunuz. Bu, duygusal açıdan korku ve panik hissine neden olur. Bazı şeylere olumlu tarafından bakmakta fayda var.";
+"SONUCTANIM3" = "Bu, algılama ve düşünme yetilerinde meydana gelen bozukluklara bağlı olarak kişinin davranışlarında değişime, bozulmalara yol açar. Bu bozulmalar, kişinin dış dünyadan bağımsız, kişiler arası ilişkilerden ve gerçeklerden uzaklaşarak kendi kendine yeni bir dünya kurmasına neden olur.";
+"SONUCTANIM4" = "Davranışsal bağımlılıkta, kişi belli bir davranışı yaparak rahatlama ve huzur hisseder, başka bir deyişle ödül alır. Davranışın ödüllendirici özelliği zaman içerisinde bu davranışa bağımlılık geliştirilmesine zemin hazırlar. Bağımlılıkla mücadelede en önemli unsurun farkındalık olduğunu unutmayın!";
+"SONUCTANIM5" = "Başkaları ile duygusal bağlar kurmak istiyorsunuz. Bu arzunun altında yatan birçok sebep olabilir. Beklentiye girmenize neden olan bu davranış siz farkında olmasanız da size zarar verebilir. Sorunun kökenlerine inmekte fayda olacaktır.";
+"SONUCTANIM6" = "Anne, baba, arkadaşlar ya da diğerleriyle sosyal/romantik ilişkilerinizde sorunlar olabilir. Kişiler arasında yaşanan bu sorunların sosyal ve kişisel değişim ve gelişim işlevi bulunmaktadır ve her zaman olumsuz bir durum olarak ele alınmamaktadır. Ancak karşılıklı olarak ihtiyaçların ve beklentilerin karşılanması ve çözüme ulaşması sürecinde iletişim kurmanın önemini unutmayınız.";
+"SONUCTANIM7" = "Özellikle çocukluk ve ergenlik dönemlerinde başlayan ve ilgilenilmemesi durumunda ise, ilerleyen yaşlarda daha büyük rahatsızlıklara neden olabilen saldırganlık; genetik, çevresel veya sosyo-kültürel faktörlerden kaynaklanabilir. Bununla başa çıkmak için psikoterapi hizmeti alabilirsiniz.";
+"SONUCTANIM8" = "Bu, kişinin her şeyi kendine dayandırması, her şeyde kendini esas alması, kendi fikirlerini en önde tutması ve her şeyi kendine bağlamasıdır. Ben-merkezci düşünce çocuklukta olması beklenen ancak yetişkinlikte kaçınılması gereken bir durumdur. Bundan kaçınmak için, ben-merkezciliğin tersi olan empati ile ilgili bilgi birikiminizi ve pratiğinizi arttırabilirsiniz.";
+"PAYLASBUTTON" = "Paylaş";
+"SORUMLULUKREDDİBUTTON" = "Sorumluluk Reddi";
+//"BASLİKLABEL" = "Sorumluluk Reddi";
+/*"ACİKLAMALABEL" = "Bu test, değerlendirme ve eğitim amaçlı kullanım içindir. Belli psikolojik sıkıntılar hakkında farkındalık yaratmaya yardımcı olur. Profesyonel anlamda psikolojik, psikiyatrik veya tıbbi değerlendirme, teşhis ya da tedavi amacı ile hazırlanmamıştır.
+
+Bu test, 16 yaşından büyük kişiler için hazırlanmıştır.
+
+Test güvenilir ve geçerlidir ancak herhangi bir zihinsel ya da fiziksel sağlık durumunu teşhis için kullanılamaz. Belirtileriniz, günlük hayatınızı olumsuz etkiliyorsa bir doktora danışmalısınız.
+
+Testin sonucu tamamen anonimdir ve kişisel kullanımınız dışında herhangi bir amaçla kullanılmayacaktır. Bu uygulamanın geliştiricisi, uygulamanın kullanımından doğabilecek doğrudan ya da dolaylı herhangi bir sorumluluğu reddetmektedir.";
+*/

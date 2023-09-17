@@ -1,0 +1,552 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		224AEB5F2A59F17C00356DF9 /* ReferencesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224AEB5E2A59F17C00356DF9 /* ReferencesViewController.swift */; };
+		225659362A4385B500E9951D /* DepressionResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225659352A4385B500E9951D /* DepressionResultViewController.swift */; };
+		22637AB0297975B2004CD2FB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22637AAF297975B2004CD2FB /* AppDelegate.swift */; };
+		22637AB2297975B2004CD2FB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22637AB1297975B2004CD2FB /* SceneDelegate.swift */; };
+		22637AB4297975B2004CD2FB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22637AB3297975B2004CD2FB /* ViewController.swift */; };
+		22637AB9297975B3004CD2FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22637AB8297975B3004CD2FB /* Assets.xcassets */; };
+		22637AC429797988004CD2FB /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22637AC329797988004CD2FB /* DetailsViewController.swift */; };
+		22637AC62979799A004CD2FB /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22637AC52979799A004CD2FB /* ResultsViewController.swift */; };
+		22637ACA297979C9004CD2FB /* QuestionData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22637AC9297979C9004CD2FB /* QuestionData.swift */; };
+		22717A9B29A6AA830010510E /* TestlerCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22717A9A29A6AA830010510E /* TestlerCollectionViewCell.swift */; };
+		22717A9D29A6AA970010510E /* TestlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22717A9C29A6AA970010510E /* TestlerViewController.swift */; };
+		22717ABF29A7A6630010510E /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22717ABE29A7A6630010510E /* Test.swift */; };
+		2274DF7E2A5CDA7E00B451B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2274DF7B2A5CDA7E00B451B9 /* Main.storyboard */; };
+		2274DF802A6834E900B451B9 /* RorschachEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274DF7F2A6834E900B451B9 /* RorschachEntryViewController.swift */; };
+		2274DF822A68372F00B451B9 /* DepressionEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274DF812A68372F00B451B9 /* DepressionEntryViewController.swift */; };
+		2274DF842A68384D00B451B9 /* MentalHealthEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274DF832A68384D00B451B9 /* MentalHealthEntryViewController.swift */; };
+		2274DF862A68395700B451B9 /* AnxietyEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274DF852A68395700B451B9 /* AnxietyEntryViewController.swift */; };
+		2274DF882A683AA900B451B9 /* ExtrovertEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274DF872A683AA900B451B9 /* ExtrovertEntryViewController.swift */; };
+		2274DF8A2A683B8D00B451B9 /* BipolarEntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2274DF892A683B8D00B451B9 /* BipolarEntryViewController.swift */; };
+		2276E6AF2A40EC530029976B /* DepressionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6AE2A40EC520029976B /* DepressionViewController.swift */; };
+		2276E6B22A40ECD70029976B /* MentalHealthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6B12A40ECD70029976B /* MentalHealthViewController.swift */; };
+		2276E6B42A40F4700029976B /* AnxietyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6B32A40F4700029976B /* AnxietyViewController.swift */; };
+		2276E6B62A40F4870029976B /* PersonalityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6B52A40F4870029976B /* PersonalityViewController.swift */; };
+		2276E6B82A40F49A0029976B /* BipolarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6B72A40F49A0029976B /* BipolarViewController.swift */; };
+		2276E6BA2A40F4CD0029976B /* ExtrovertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6B92A40F4CD0029976B /* ExtrovertViewController.swift */; };
+		2276E6BC2A40F4DC0029976B /* CarrierViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6BB2A40F4DC0029976B /* CarrierViewController.swift */; };
+		2276E6BE2A40F4F30029976B /* SexPersonalityViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6BD2A40F4F30029976B /* SexPersonalityViewController.swift */; };
+		2276E6C02A40F5010029976B /* LoveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6BF2A40F5010029976B /* LoveViewController.swift */; };
+		2276E6C22A40F51E0029976B /* SelfConfidenceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6C12A40F51E0029976B /* SelfConfidenceViewController.swift */; };
+		2276E6C42A40F5300029976B /* AngerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2276E6C32A40F5300029976B /* AngerViewController.swift */; };
+		229321102A4B60D300CB5344 /* MentalHealthResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2293210F2A4B60D300CB5344 /* MentalHealthResultViewController.swift */; };
+		229321122A4C6C1B00CB5344 /* AnxietyResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229321112A4C6C1B00CB5344 /* AnxietyResultViewController.swift */; };
+		229321142A4C8D6200CB5344 /* BipolarResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229321132A4C8D6200CB5344 /* BipolarResultViewController.swift */; };
+		229321162A4F333700CB5344 /* ExtrovertResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229321152A4F333700CB5344 /* ExtrovertResultViewController.swift */; };
+		7560DDAD1624D830A65F6D76 /* Pods_RorschachTestApplication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B1605784940E1325B76E3E1 /* Pods_RorschachTestApplication.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		224AEB5E2A59F17C00356DF9 /* ReferencesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReferencesViewController.swift; sourceTree = "<group>"; };
+		225659352A4385B500E9951D /* DepressionResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepressionResultViewController.swift; sourceTree = "<group>"; };
+		22637AAC297975B2004CD2FB /* RorschachTestApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RorschachTestApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		22637AAF297975B2004CD2FB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		22637AB1297975B2004CD2FB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		22637AB3297975B2004CD2FB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; wrapsLines = 0; };
+		22637AB8297975B3004CD2FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		22637ABD297975B3004CD2FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22637AC329797988004CD2FB /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		22637AC52979799A004CD2FB /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		22637AC9297979C9004CD2FB /* QuestionData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionData.swift; sourceTree = "<group>"; };
+		22717A9A29A6AA830010510E /* TestlerCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestlerCollectionViewCell.swift; sourceTree = "<group>"; };
+		22717A9C29A6AA970010510E /* TestlerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestlerViewController.swift; sourceTree = "<group>"; };
+		22717ABE29A7A6630010510E /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		2274DF7B2A5CDA7E00B451B9 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		2274DF7F2A6834E900B451B9 /* RorschachEntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RorschachEntryViewController.swift; sourceTree = "<group>"; };
+		2274DF812A68372F00B451B9 /* DepressionEntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepressionEntryViewController.swift; sourceTree = "<group>"; };
+		2274DF832A68384D00B451B9 /* MentalHealthEntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentalHealthEntryViewController.swift; sourceTree = "<group>"; };
+		2274DF852A68395700B451B9 /* AnxietyEntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnxietyEntryViewController.swift; sourceTree = "<group>"; };
+		2274DF872A683AA900B451B9 /* ExtrovertEntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtrovertEntryViewController.swift; sourceTree = "<group>"; };
+		2274DF892A683B8D00B451B9 /* BipolarEntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BipolarEntryViewController.swift; sourceTree = "<group>"; };
+		2276E6AE2A40EC520029976B /* DepressionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DepressionViewController.swift; sourceTree = "<group>"; };
+		2276E6B12A40ECD70029976B /* MentalHealthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentalHealthViewController.swift; sourceTree = "<group>"; };
+		2276E6B32A40F4700029976B /* AnxietyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnxietyViewController.swift; sourceTree = "<group>"; };
+		2276E6B52A40F4870029976B /* PersonalityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalityViewController.swift; sourceTree = "<group>"; };
+		2276E6B72A40F49A0029976B /* BipolarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BipolarViewController.swift; sourceTree = "<group>"; };
+		2276E6B92A40F4CD0029976B /* ExtrovertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtrovertViewController.swift; sourceTree = "<group>"; };
+		2276E6BB2A40F4DC0029976B /* CarrierViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarrierViewController.swift; sourceTree = "<group>"; };
+		2276E6BD2A40F4F30029976B /* SexPersonalityViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SexPersonalityViewController.swift; sourceTree = "<group>"; };
+		2276E6BF2A40F5010029976B /* LoveViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoveViewController.swift; sourceTree = "<group>"; };
+		2276E6C12A40F51E0029976B /* SelfConfidenceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfConfidenceViewController.swift; sourceTree = "<group>"; };
+		2276E6C32A40F5300029976B /* AngerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngerViewController.swift; sourceTree = "<group>"; };
+		2293210F2A4B60D300CB5344 /* MentalHealthResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MentalHealthResultViewController.swift; sourceTree = "<group>"; };
+		229321112A4C6C1B00CB5344 /* AnxietyResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnxietyResultViewController.swift; sourceTree = "<group>"; };
+		229321132A4C8D6200CB5344 /* BipolarResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BipolarResultViewController.swift; sourceTree = "<group>"; };
+		229321152A4F333700CB5344 /* ExtrovertResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtrovertResultViewController.swift; sourceTree = "<group>"; };
+		5B1605784940E1325B76E3E1 /* Pods_RorschachTestApplication.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RorschachTestApplication.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F39D30BDB9F07093836E0120 /* Pods-RorschachTestApplication.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RorschachTestApplication.debug.xcconfig"; path = "Target Support Files/Pods-RorschachTestApplication/Pods-RorschachTestApplication.debug.xcconfig"; sourceTree = "<group>"; };
+		FA2B05CBC53E2876D3688B0D /* Pods-RorschachTestApplication.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RorschachTestApplication.release.xcconfig"; path = "Target Support Files/Pods-RorschachTestApplication/Pods-RorschachTestApplication.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		22637AA9297975B2004CD2FB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7560DDAD1624D830A65F6D76 /* Pods_RorschachTestApplication.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		225659322A42429800E9951D /* QuestionDatas */ = {
+			isa = PBXGroup;
+			children = (
+				22637AC9297979C9004CD2FB /* QuestionData.swift */,
+			);
+			path = QuestionDatas;
+			sourceTree = "<group>";
+		};
+		22637AA3297975B2004CD2FB = {
+			isa = PBXGroup;
+			children = (
+				2274DF7B2A5CDA7E00B451B9 /* Main.storyboard */,
+				225659322A42429800E9951D /* QuestionDatas */,
+				2276E6B02A40EC770029976B /* ViewControllers */,
+				22637AAE297975B2004CD2FB /* RorschachTestApplication */,
+				22637AAD297975B2004CD2FB /* Products */,
+				6348514ACE9F389E43265C74 /* Pods */,
+				6E109F0F2C9EDAB7C14CAC73 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		22637AAD297975B2004CD2FB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				22637AAC297975B2004CD2FB /* RorschachTestApplication.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		22637AAE297975B2004CD2FB /* RorschachTestApplication */ = {
+			isa = PBXGroup;
+			children = (
+				22637AAF297975B2004CD2FB /* AppDelegate.swift */,
+				22637AB1297975B2004CD2FB /* SceneDelegate.swift */,
+				22637ABD297975B3004CD2FB /* Info.plist */,
+				22637AB8297975B3004CD2FB /* Assets.xcassets */,
+				22717A9A29A6AA830010510E /* TestlerCollectionViewCell.swift */,
+				22717ABE29A7A6630010510E /* Test.swift */,
+			);
+			path = RorschachTestApplication;
+			sourceTree = "<group>";
+		};
+		2276E6B02A40EC770029976B /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				22637AB3297975B2004CD2FB /* ViewController.swift */,
+				22717A9C29A6AA970010510E /* TestlerViewController.swift */,
+				2274DF7F2A6834E900B451B9 /* RorschachEntryViewController.swift */,
+				22637AC329797988004CD2FB /* DetailsViewController.swift */,
+				22637AC52979799A004CD2FB /* ResultsViewController.swift */,
+				2274DF812A68372F00B451B9 /* DepressionEntryViewController.swift */,
+				2276E6AE2A40EC520029976B /* DepressionViewController.swift */,
+				225659352A4385B500E9951D /* DepressionResultViewController.swift */,
+				2274DF832A68384D00B451B9 /* MentalHealthEntryViewController.swift */,
+				2276E6B12A40ECD70029976B /* MentalHealthViewController.swift */,
+				2293210F2A4B60D300CB5344 /* MentalHealthResultViewController.swift */,
+				2274DF852A68395700B451B9 /* AnxietyEntryViewController.swift */,
+				2276E6B32A40F4700029976B /* AnxietyViewController.swift */,
+				229321112A4C6C1B00CB5344 /* AnxietyResultViewController.swift */,
+				2274DF872A683AA900B451B9 /* ExtrovertEntryViewController.swift */,
+				2276E6B92A40F4CD0029976B /* ExtrovertViewController.swift */,
+				229321152A4F333700CB5344 /* ExtrovertResultViewController.swift */,
+				2274DF892A683B8D00B451B9 /* BipolarEntryViewController.swift */,
+				2276E6B72A40F49A0029976B /* BipolarViewController.swift */,
+				229321132A4C8D6200CB5344 /* BipolarResultViewController.swift */,
+				2276E6B52A40F4870029976B /* PersonalityViewController.swift */,
+				2276E6BB2A40F4DC0029976B /* CarrierViewController.swift */,
+				2276E6BD2A40F4F30029976B /* SexPersonalityViewController.swift */,
+				2276E6BF2A40F5010029976B /* LoveViewController.swift */,
+				2276E6C12A40F51E0029976B /* SelfConfidenceViewController.swift */,
+				2276E6C32A40F5300029976B /* AngerViewController.swift */,
+				224AEB5E2A59F17C00356DF9 /* ReferencesViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		6348514ACE9F389E43265C74 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F39D30BDB9F07093836E0120 /* Pods-RorschachTestApplication.debug.xcconfig */,
+				FA2B05CBC53E2876D3688B0D /* Pods-RorschachTestApplication.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		6E109F0F2C9EDAB7C14CAC73 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5B1605784940E1325B76E3E1 /* Pods_RorschachTestApplication.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		22637AAB297975B2004CD2FB /* RorschachTestApplication */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 22637AC0297975B3004CD2FB /* Build configuration list for PBXNativeTarget "RorschachTestApplication" */;
+			buildPhases = (
+				406AE1371B5EBDF03B912E4F /* [CP] Check Pods Manifest.lock */,
+				22637AA8297975B2004CD2FB /* Sources */,
+				22637AA9297975B2004CD2FB /* Frameworks */,
+				22637AAA297975B2004CD2FB /* Resources */,
+				9C002BB3EFC85E451F9CB480 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RorschachTestApplication;
+			productName = RorschachTestApplication;
+			productReference = 22637AAC297975B2004CD2FB /* RorschachTestApplication.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		22637AA4297975B2004CD2FB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					22637AAB297975B2004CD2FB = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = 22637AA7297975B2004CD2FB /* Build configuration list for PBXProject "RorschachTestApplication" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 22637AA3297975B2004CD2FB;
+			productRefGroup = 22637AAD297975B2004CD2FB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				22637AAB297975B2004CD2FB /* RorschachTestApplication */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		22637AAA297975B2004CD2FB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22637AB9297975B3004CD2FB /* Assets.xcassets in Resources */,
+				2274DF7E2A5CDA7E00B451B9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		406AE1371B5EBDF03B912E4F /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-RorschachTestApplication-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9C002BB3EFC85E451F9CB480 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-RorschachTestApplication/Pods-RorschachTestApplication-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-RorschachTestApplication/Pods-RorschachTestApplication-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RorschachTestApplication/Pods-RorschachTestApplication-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		22637AA8297975B2004CD2FB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				22637AB4297975B2004CD2FB /* ViewController.swift in Sources */,
+				2274DF842A68384D00B451B9 /* MentalHealthEntryViewController.swift in Sources */,
+				2276E6B82A40F49A0029976B /* BipolarViewController.swift in Sources */,
+				229321162A4F333700CB5344 /* ExtrovertResultViewController.swift in Sources */,
+				2274DF802A6834E900B451B9 /* RorschachEntryViewController.swift in Sources */,
+				22637AB0297975B2004CD2FB /* AppDelegate.swift in Sources */,
+				22637AB2297975B2004CD2FB /* SceneDelegate.swift in Sources */,
+				2276E6B42A40F4700029976B /* AnxietyViewController.swift in Sources */,
+				2276E6B62A40F4870029976B /* PersonalityViewController.swift in Sources */,
+				225659362A4385B500E9951D /* DepressionResultViewController.swift in Sources */,
+				2274DF8A2A683B8D00B451B9 /* BipolarEntryViewController.swift in Sources */,
+				2276E6AF2A40EC530029976B /* DepressionViewController.swift in Sources */,
+				22717A9B29A6AA830010510E /* TestlerCollectionViewCell.swift in Sources */,
+				2276E6BC2A40F4DC0029976B /* CarrierViewController.swift in Sources */,
+				2276E6C02A40F5010029976B /* LoveViewController.swift in Sources */,
+				2274DF862A68395700B451B9 /* AnxietyEntryViewController.swift in Sources */,
+				2276E6BE2A40F4F30029976B /* SexPersonalityViewController.swift in Sources */,
+				2276E6B22A40ECD70029976B /* MentalHealthViewController.swift in Sources */,
+				2274DF822A68372F00B451B9 /* DepressionEntryViewController.swift in Sources */,
+				2276E6BA2A40F4CD0029976B /* ExtrovertViewController.swift in Sources */,
+				22717A9D29A6AA970010510E /* TestlerViewController.swift in Sources */,
+				22637ACA297979C9004CD2FB /* QuestionData.swift in Sources */,
+				2276E6C22A40F51E0029976B /* SelfConfidenceViewController.swift in Sources */,
+				22717ABF29A7A6630010510E /* Test.swift in Sources */,
+				22637AC62979799A004CD2FB /* ResultsViewController.swift in Sources */,
+				2274DF882A683AA900B451B9 /* ExtrovertEntryViewController.swift in Sources */,
+				229321142A4C8D6200CB5344 /* BipolarResultViewController.swift in Sources */,
+				229321122A4C6C1B00CB5344 /* AnxietyResultViewController.swift in Sources */,
+				224AEB5F2A59F17C00356DF9 /* ReferencesViewController.swift in Sources */,
+				2276E6C42A40F5300029976B /* AngerViewController.swift in Sources */,
+				229321102A4B60D300CB5344 /* MentalHealthResultViewController.swift in Sources */,
+				22637AC429797988004CD2FB /* DetailsViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		22637ABE297975B3004CD2FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		22637ABF297975B3004CD2FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		22637AC1297975B3004CD2FB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F39D30BDB9F07093836E0120 /* Pods-RorschachTestApplication.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GWCL4FQ7R5;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RorschachTestApplication/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = Main.storyboard;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = dilanozturk.RorschachTestApplication;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		22637AC2297975B3004CD2FB /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA2B05CBC53E2876D3688B0D /* Pods-RorschachTestApplication.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = GWCL4FQ7R5;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RorschachTestApplication/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = Main.storyboard;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = dilanozturk.RorschachTestApplication;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		22637AA7297975B2004CD2FB /* Build configuration list for PBXProject "RorschachTestApplication" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				22637ABE297975B3004CD2FB /* Debug */,
+				22637ABF297975B3004CD2FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		22637AC0297975B3004CD2FB /* Build configuration list for PBXNativeTarget "RorschachTestApplication" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				22637AC1297975B3004CD2FB /* Debug */,
+				22637AC2297975B3004CD2FB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 22637AA4297975B2004CD2FB /* Project object */;
+}

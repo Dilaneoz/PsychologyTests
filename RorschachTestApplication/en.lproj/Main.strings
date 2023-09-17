@@ -1,0 +1,384 @@
+
+/* Class = "UIButton"; configuration.title = "Just a little"; ObjectID = "01l-Xk-pvc"; */
+"01l-Xk-pvc.configuration.title" = "Just a little";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "01l-Xk-pvc"; */
+"01l-Xk-pvc.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "2hs-fS-f9c"; */
+"2hs-fS-f9c.title" = "Result";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2pv-AD-17t"; */
+"2pv-AD-17t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Mental Health Severity"; ObjectID = "3GW-JW-Lag"; */
+"3GW-JW-Lag.text" = "Mental Health Severity";
+
+/* Class = "UIButton"; configuration.title = "Depression Reference"; ObjectID = "3zQ-ct-YPq"; */
+"3zQ-ct-YPq.configuration.title" = "Depression Reference";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3zQ-ct-YPq"; */
+"3zQ-ct-YPq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Anxiety Severity"; ObjectID = "4qo-6C-HRP"; */
+"4qo-6C-HRP.text" = "Anxiety Severity";
+
+/* Class = "UIButton"; configuration.title = "Start Screening Test"; ObjectID = "5F9-iJ-eZS"; */
+"5F9-iJ-eZS.configuration.title" = "Start Screening Test";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5F9-iJ-eZS"; */
+"5F9-iJ-eZS.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "5bB-L1-KXs"; */
+"5bB-L1-KXs.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5bB-L1-KXs"; */
+"5bB-L1-KXs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5e5-GF-HRU"; */
+"5e5-GF-HRU.text" = "Label";
+
+/* Class = "UILabel"; text = "Over the last two weeks, how often have you\nbeen bothered by the following problems? "; ObjectID = "5id-Hv-GWt"; */
+"5id-Hv-GWt.text" = "Over the last two weeks, how often have you\nbeen bothered by the following problems? ";
+
+/* Class = "UIButton"; configuration.title = "Start Screening Test"; ObjectID = "60g-Op-Y4Q"; */
+"60g-Op-Y4Q.configuration.title" = "Start Screening Test";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "60g-Op-Y4Q"; */
+"60g-Op-Y4Q.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Bipolar Disorder Severity"; ObjectID = "7w3-qh-KGg"; */
+"7w3-qh-KGg.text" = "Bipolar Disorder Severity";
+
+/* Class = "UILabel"; text = "Coming Soon..."; ObjectID = "8u3-rg-4KY"; */
+"8u3-rg-4KY.text" = "Coming Soon...";
+
+/* Class = "UILabel"; text = "Reference: Kelly, M. J., Dunstan, F. D., Lloyd, K., &amp; Fone, D. L. (2008). Evaluating cutpoints for the MHI-5 and MCS using the GHQ-12: A comparison of five different methods. BMC Psychiatry, 8(1)."; ObjectID = "9s9-Z3-cDy"; */
+"9s9-Z3-cDy.text" = "Reference: Kelly, M. J., Dunstan, F. D., Lloyd, K., &amp; Fone, D. L. (2008). Evaluating cutpoints for the MHI-5 and MCS using the GHQ-12: A comparison of five different methods. BMC Psychiatry, 8(1).";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AMO-Ks-fDl"; */
+"AMO-Ks-fDl.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "Bga-AV-bNc"; */
+"Bga-AV-bNc.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bga-AV-bNc"; */
+"Bga-AV-bNc.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Cnu-RL-32o"; */
+"Cnu-RL-32o.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "DDa-qO-b9t"; */
+"DDa-qO-b9t.title" = "Result";
+
+/* Class = "UILabel"; text = "Depression Severity"; ObjectID = "DDt-YC-G0v"; */
+"DDt-YC-G0v.text" = "Depression Severity";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DKM-fZ-si1"; */
+"DKM-fZ-si1.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "E74-Nz-ZBA"; */
+"E74-Nz-ZBA.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Nearly every day"; ObjectID = "E7P-4c-jgW"; */
+"E7P-4c-jgW.configuration.title" = "Nearly every day";
+
+/* Class = "UIButton"; normalTitle = "Nearly every day"; ObjectID = "E7P-4c-jgW"; */
+"E7P-4c-jgW.normalTitle" = "Nearly every day";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "ETs-e3-95e"; */
+"ETs-e3-95e.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ETs-e3-95e"; */
+"ETs-e3-95e.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coming Soon..."; ObjectID = "G7K-Vl-eAn"; */
+"G7K-Vl-eAn.text" = "Coming Soon...";
+
+/* Class = "UILabel"; text = "The items at next page refer to how you have felt and behaved over much of your life. If you have usually been one way, and have recently changed, your responses should reflect how you have USUALLY been."; ObjectID = "HRa-DJ-lwA"; */
+"HRa-DJ-lwA.text" = "The items at next page refer to how you have felt and behaved over much of your life. If you have usually been one way, and have recently changed, your responses should reflect how you have USUALLY been.";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hry-WS-G79"; */
+"Hry-WS-G79.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Quite a lot"; ObjectID = "IND-jv-vP2"; */
+"IND-jv-vP2.configuration.title" = "Quite a lot";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "IND-jv-vP2"; */
+"IND-jv-vP2.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Jbk-SN-hlI"; */
+"Jbk-SN-hlI.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " Most of the time"; ObjectID = "LS4-iB-C7R"; */
+"LS4-iB-C7R.configuration.title" = " Most of the time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LS4-iB-C7R"; */
+"LS4-iB-C7R.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Rorschach Reference"; ObjectID = "LgG-bs-Poi"; */
+"LgG-bs-Poi.configuration.title" = "Rorschach Reference";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LgG-bs-Poi"; */
+"LgG-bs-Poi.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Moderately"; ObjectID = "LqP-i0-Pe3"; */
+"LqP-i0-Pe3.configuration.title" = "Moderately";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LqP-i0-Pe3"; */
+"LqP-i0-Pe3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "MGL-cH-EXJ"; */
+"MGL-cH-EXJ.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MGL-cH-EXJ"; */
+"MGL-cH-EXJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Not at all"; ObjectID = "NHS-ey-wh3"; */
+"NHS-ey-wh3.configuration.title" = "Not at all";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NHS-ey-wh3"; */
+"NHS-ey-wh3.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Several days"; ObjectID = "NfN-2T-5uT"; */
+"NfN-2T-5uT.configuration.title" = "Several days";
+
+/* Class = "UIButton"; normalTitle = "Several days"; ObjectID = "NfN-2T-5uT"; */
+"NfN-2T-5uT.normalTitle" = "Several days";
+
+/* Class = "UIButton"; configuration.title = "None of the time"; ObjectID = "Olf-E8-rWG"; */
+"Olf-E8-rWG.configuration.title" = "None of the time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Olf-E8-rWG"; */
+"Olf-E8-rWG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RyE-cL-zza"; */
+"RyE-cL-zza.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Extrovert - Introvert Reference"; ObjectID = "SLC-30-mnc"; */
+"SLC-30-mnc.configuration.title" = "Extrovert - Introvert Reference";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SLC-30-mnc"; */
+"SLC-30-mnc.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Sj0-UO-GdY"; */
+"Sj0-UO-GdY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TTo-XZ-uKT"; */
+"TTo-XZ-uKT.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Tcg-La-FUl"; */
+"Tcg-La-FUl.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Very much"; ObjectID = "TyL-Tv-7Ze"; */
+"TyL-Tv-7Ze.configuration.title" = "Very much";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TyL-Tv-7Ze"; */
+"TyL-Tv-7Ze.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Uev-vY-f8A"; */
+"Uev-vY-f8A.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Not all day"; ObjectID = "Uhd-Cj-7yp"; */
+"Uhd-Cj-7yp.configuration.title" = "Not all day";
+
+/* Class = "UIButton"; normalTitle = "Not all day"; ObjectID = "Uhd-Cj-7yp"; */
+"Uhd-Cj-7yp.normalTitle" = "Not all day";
+
+/* Class = "UILabel"; text = "Reference: Munroe, R. (1945). Rorschach Test (Vol. 16). "; ObjectID = "UtA-30-fcd"; */
+"UtA-30-fcd.text" = "Reference: Munroe, R. (1945). Rorschach Test (Vol. 16). ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Wgd-aM-rqf"; */
+"Wgd-aM-rqf.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Yp1-EX-L5W"; */
+"Yp1-EX-L5W.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZVK-Bg-VCA"; */
+"ZVK-Bg-VCA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Disclaimer of Liability"; ObjectID = "ZXG-nF-VS2"; */
+"ZXG-nF-VS2.text" = "Disclaimer of Liability";
+
+/* Class = "UIButton"; configuration.title = "Several days"; ObjectID = "ZfH-Pd-WEF"; */
+"ZfH-Pd-WEF.configuration.title" = "Several days";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ZfH-Pd-WEF"; */
+"ZfH-Pd-WEF.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "ZvA-pn-FaK"; */
+"ZvA-pn-FaK.title" = "Done";
+
+/* Class = "UIButton"; configuration.title = "Not at all"; ObjectID = "a0Q-rY-pfc"; */
+"a0Q-rY-pfc.configuration.title" = "Not at all";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "a0Q-rY-pfc"; */
+"a0Q-rY-pfc.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "More than half the days"; ObjectID = "aQU-nI-Vna"; */
+"aQU-nI-Vna.configuration.title" = "More than half the days";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aQU-nI-Vna"; */
+"aQU-nI-Vna.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Bipolar Disorder Reference"; ObjectID = "afE-kj-ZHd"; */
+"afE-kj-ZHd.configuration.title" = "Bipolar Disorder Reference";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "afE-kj-ZHd"; */
+"afE-kj-ZHd.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "awS-0B-3cT"; */
+"awS-0B-3cT.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "A good bit of the time"; ObjectID = "bhL-5N-fgJ"; */
+"bhL-5N-fgJ.configuration.title" = "A good bit of the time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bhL-5N-fgJ"; */
+"bhL-5N-fgJ.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "ck7-XS-gIy"; */
+"ck7-XS-gIy.title" = "Result";
+
+/* Class = "UIButton"; configuration.title = "A little of the time"; ObjectID = "dFu-i8-ewl"; */
+"dFu-i8-ewl.configuration.title" = "A little of the time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dFu-i8-ewl"; */
+"dFu-i8-ewl.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "egi-P2-mfx"; */
+"egi-P2-mfx.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coming Soon..."; ObjectID = "ekH-Ex-ic4"; */
+"ekH-Ex-ic4.text" = "Coming Soon...";
+
+/* Class = "UILabel"; text = "Coming Soon..."; ObjectID = "fha-h2-Uue"; */
+"fha-h2-Uue.text" = "Coming Soon...";
+
+/* Class = "UIButton"; configuration.title = "Anxiety Reference"; ObjectID = "fpp-Ma-efx"; */
+"fpp-Ma-efx.configuration.title" = "Anxiety Reference";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fpp-Ma-efx"; */
+"fpp-Ma-efx.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gCN-4B-EoU"; */
+"gCN-4B-EoU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hm1-eg-nRh"; */
+"hm1-eg-nRh.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = " Some of the time"; ObjectID = "i7n-D1-RhH"; */
+"i7n-D1-RhH.configuration.title" = " Some of the time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "i7n-D1-RhH"; */
+"i7n-D1-RhH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coming Soon..."; ObjectID = "i9W-DD-HvS"; */
+"i9W-DD-HvS.text" = "Coming Soon...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jNI-wQ-bZr"; */
+"jNI-wQ-bZr.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Start Test"; ObjectID = "k0e-gZ-lOA"; */
+"k0e-gZ-lOA.configuration.title" = "Start Test";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "k0e-gZ-lOA"; */
+"k0e-gZ-lOA.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lQR-xX-FYp"; */
+"lQR-xX-FYp.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Mental Health Reference"; ObjectID = "msl-A6-0Qa"; */
+"msl-A6-0Qa.configuration.title" = "Mental Health Reference";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "msl-A6-0Qa"; */
+"msl-A6-0Qa.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "nQ5-Ht-DYP"; */
+"nQ5-Ht-DYP.title" = "Result";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "nUw-ac-meR"; */
+"nUw-ac-meR.title" = "Result";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nWz-HQ-Fsl"; */
+"nWz-HQ-Fsl.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "nk3-3N-eHO"; */
+"nk3-3N-eHO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Reference: Goldberg, I. (1993) Screening for Bipolar Spectrum Disorders."; ObjectID = "oCr-Ag-yuq"; */
+"oCr-Ag-yuq.text" = "Reference: Goldberg, I. (1993) Screening for Bipolar Spectrum Disorders.";
+
+/* Class = "UILabel"; text = "What do you see in the image?"; ObjectID = "oEp-dF-f1R"; */
+"oEp-dF-f1R.text" = "What do you see in the image?";
+
+/* Class = "UILabel"; text = "Reference: Cherry, K., & Mattiuzzi, P. G. (2010). The Everything Psychology Book: Explore the human psyche and understand why we do the things we do. Simon & Schuster\n\n\n"; ObjectID = "oKR-op-NeM"; */
+"oKR-op-NeM.text" = "Reference: Cherry, K., & Mattiuzzi, P. G. (2010). The Everything Psychology Book: Explore the human psyche and understand why we do the things we do. Simon & Schuster\n\n\n";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "pZK-6N-s8J"; */
+"pZK-6N-s8J.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Coming Soon..."; ObjectID = "pwX-5G-wMN"; */
+"pwX-5G-wMN.text" = "Coming Soon...";
+
+/* Class = "UILabel"; text = "This test is for evaluation and educational use only. It helps to raise awareness about certain psychological problems. It is not prepared for professional psychological, psychiatric or medical evaluation, diagnosis or treatment. \n \nThis test is prepared for people aged 18 and older. \n \nThe test is reliable and valid, but cannot be used to diagnose any mental or physical health condition. If your symptoms affect negatively your daily life, you should consult a doctor. \n \nThe result of the test is completely anonymous and will not be used for any purpose other than your personal use. The developer of this application disclaims any direct or indirect liability arising from the use of the application. \n"; ObjectID = "qU2-r6-XjG"; */
+"qU2-r6-XjG.text" = "This test is for evaluation and educational use only. It helps to raise awareness about certain psychological problems. It is not prepared for professional psychological, psychiatric or medical evaluation, diagnosis or treatment. \n \nThis test is prepared for people aged 18 and older. \n \nThe test is reliable and valid, but cannot be used to diagnose any mental or physical health condition. If your symptoms affect negatively your daily life, you should consult a doctor. \n \nThe result of the test is completely anonymous and will not be used for any purpose other than your personal use. The developer of this application disclaims any direct or indirect liability arising from the use of the application. \n";
+
+/* Class = "UIButton"; configuration.title = "More than half the days"; ObjectID = "qcf-Pr-1o1"; */
+"qcf-Pr-1o1.configuration.title" = "More than half the days";
+
+/* Class = "UIButton"; normalTitle = "More than one - half the days"; ObjectID = "qcf-Pr-1o1"; */
+"qcf-Pr-1o1.normalTitle" = "More than one - half the days";
+
+/* Class = "UIButton"; configuration.title = "Next"; ObjectID = "rEg-rf-LJA"; */
+"rEg-rf-LJA.configuration.title" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rEg-rf-LJA"; */
+"rEg-rf-LJA.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Result"; ObjectID = "rM7-Ze-QYj"; */
+"rM7-Ze-QYj.title" = "Result";
+
+/* Class = "UILabel"; text = "Reference: Löwe, B., Decker, O., Müller, S., Brähler, E., Schellberg, D., Herzog, W., & Herzberg, P. Y. (2008). Validation and standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the general population. Medical Care, 46(3), 266–274."; ObjectID = "rUL-p1-iTs"; */
+"rUL-p1-iTs.text" = "Reference: Löwe, B., Decker, O., Müller, S., Brähler, E., Schellberg, D., Herzog, W., & Herzberg, P. Y. (2008). Validation and standardization of the Generalized Anxiety Disorder Screener (GAD-7) in the general population. Medical Care, 46(3), 266–274.";
+
+/* Class = "UILabel"; text = "References"; ObjectID = "ssr-op-QTn"; */
+"ssr-op-QTn.text" = "References";
+
+/* Class = "UIButton"; configuration.title = " All of the time"; ObjectID = "t5J-ba-yeD"; */
+"t5J-ba-yeD.configuration.title" = " All of the time";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "t5J-ba-yeD"; */
+"t5J-ba-yeD.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tN9-0u-Ie9"; */
+"tN9-0u-Ie9.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Somewhat"; ObjectID = "uD6-cI-ux0"; */
+"uD6-cI-ux0.configuration.title" = "Somewhat";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uD6-cI-ux0"; */
+"uD6-cI-ux0.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vW2-wm-RAO"; */
+"vW2-wm-RAO.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "x2e-QX-Njh"; */
+"x2e-QX-Njh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xpy-P2-ytN"; */
+"xpy-P2-ytN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yKb-l6-Mzd"; */
+"yKb-l6-Mzd.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "z8Q-lb-1Jv"; */
+"z8Q-lb-1Jv.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Nearly every day"; ObjectID = "zAL-gz-Vol"; */
+"zAL-gz-Vol.configuration.title" = "Nearly every day";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zAL-gz-Vol"; */
+"zAL-gz-Vol.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zqr-vP-Gar"; */
+"zqr-vP-Gar.text" = "Label";
